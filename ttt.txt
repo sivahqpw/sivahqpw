@@ -1,0 +1,38 @@
+[Fact]
+[T]
+[the functional or non-functional aspect of T in the Topic]
+[the gain or loss from that functional or non-functional aspect of T in the Topic]
+[name of the state (i.e., result-provider) of T that provides the Total of all outcomes from the transformed T]
+[the all activated aspects in content]
+[Total of Gain or Loss]
+
+
+TITLE
+=====
+
+[Total of Gain or Loss] for You
+
+THESIS
+======
+
+[T] has become [name of the state (i.e., result-provider) of T that provides the Total of all outcomes from the transformed T] due to [the all activated aspects in content]
+
+TOPIC
+=====
+
+One of the biggest benefit of [T] is [the functional or non-functional aspect of T in the Topic], giving [the gain or loss from that functional or non-functional aspect of T in the Topic]
+
+
+SUPPORT TO TOPIC
+================
+
+[Fact]
+
+
+COUNTER-ARGUEMENT'S TOPIC
+=========================
+
+Some may argue that [T] can
+
+
+
