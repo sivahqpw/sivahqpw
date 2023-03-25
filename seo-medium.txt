@@ -1,0 +1,24 @@
+Meta Description
+================
+
+Please suggest me the most appropriate meta-description for the article of this title: title
+
+Please write a meta-description in 150 to 160 characters for the article of this title: title
+
+
+IMAGE
+=====
+
+What kind of Image could be used in the article for this title? title
+
+Can you create alt text options for this image?
+
+
+Medium SEO
+==========
+
+[Please provide me 5 best keywords for this article so that its readers know what this story is about from the given title and description]
+
+Title: title
+
+Description: the message
