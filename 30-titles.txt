@@ -1,0 +1,77 @@
+What are the reasons people fail with [T]?
+What are the impacts of [this reason] on the lives of [niche people]?
+What are the impacts of [this reason] on [this activity]?
+What are the outcome of [this impact] with [T]?
+
+
+Reason:
+
+Impact of Reason (A):
+
+Outcome of Impact (G):
+
+
+
+TOPIC = Reason (in +ve phrase)
+INCENTIVE = [G] from [T]
+
+
+==================================================================================
+1
+==================================================================================
+
+I am going to train you to become an Idea Generation Machine.
+
+I will give you the topic and the incentive, and 30 different proven approaches for headline ideas. 
+
+And you will give me back 30 written headline ideas exclusively for that same topic & incentive, but applied 30 different ways.
+
+Are you ready for the topic, the incentive, and the 30 different approaches?
+
+==================================================================================
+2
+==================================================================================
+Topic: Topic
+
+Incentive: Incentive
+
+30 Proven Approaches:
+
+- Tips
+- Skills
+- Tools
+- Traits
+- Steps
+- Goals
+- Books
+- Habits
+- Stories
+- Quotes
+- Secrets
+- Insights
+- Benefits
+- Lessons
+- Reasons
+- Creators
+- Routines
+- Mistakes
+- Podcasts
+- Examples
+- Questions
+- Inventions
+- Templates
+- Resources
+- Challenges
+- Companies
+- Data Points
+- Realizations
+- Frameworks
+- Presentations
+==================================================================================
+
+
+
+
+What should be the take home message in the article of this title?: title
+
+Please outline a long-form article for it
