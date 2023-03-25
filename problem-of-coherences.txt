@@ -1,3 +1,17 @@
+A Particular Sentence
+=====================
+
+What type of sentence it this?: sentence
+
+Please give me the syntactic tree of this sentence: sentence
+
+Please give me the Reed-Kellogg Diagram notation of this sentence: sentence 
+
+Can you please suggest me a figure-of-speech that can beautifully replace this sentence?: sentence
+
+Problem of Coherences
+=====================
+
 Is there any information gap that cause the problem of coherences in between these paragraphs?:
 
 Are these paragraphs are coherent and do these flow logically?:
