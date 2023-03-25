@@ -1,0 +1,33 @@
+Great, I like this headline: {Headline}
+
+Please write a bulleted list tweet based on this headline.
+
+Here are the rules:
+
+1. It must be 280 characters or less.
+
+2. No hashtags
+
+3. Start with 1 clear, declarative sentence.
+
+4. 3-5 bulleted list of actionable tips.
+
+
+======================================
+
+
+Rewrite this headline as a Twitter Thread:
+
+{Headline}
+
+A few rules:
+
+1. Make each tweet stand alone
+2. No hashtags
+3. Use this format:
+
+First sentence = name the "tip"
+
+3-5 bulleted list of how to actionably execute that tip
+
+If there's room, 1 final sentence encouraging the reader.
