@@ -1,13 +1,18 @@
 A Particular Sentence
 =====================
 
-What type of sentence it this?: sentence
+What type of sentence is this?: [Sentence]
 
-Please give me the syntactic tree of this sentence: sentence
+What is the main verb and its subject in this sentence?: [Sentence]
 
-Please give me the Reed-Kellogg Diagram notation of this sentence: sentence 
+Give me the syntactic analysis of this sentence:  [Sentence]
 
-Can you please suggest me a figure-of-speech that can beautifully replace this sentence?: sentence
+Give me the analysis, in The Reed-Kellogg notation, of this sentence: [Sentence]
+
+Can you please suggest me some suitable types of figure of speech that can be used in place of this sentence?: [Sentence]
+
+Can you please some [figure of speech name] that can be beautifully replace this sentence?: [Sentence]
+
 
 Problem of Coherences
 =====================
