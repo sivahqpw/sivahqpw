@@ -1,0 +1,130 @@
+I am going to train you to become an Content Generation Machine.
+
+I will give you the purpose and rules for the content. 
+
+And you will give me back the best headlines and outline of the article, considering both SEO and visitors' attention, exclusively for that same purpose and rules of the content.
+
+Are you ready for the purpose, the rules?
+
+==================================================================
+
+Purpose: tell the readers that three things are needed to succeed in online business and these are 1, content ideas and content body; 2,language of content; and 3,traffic for content
+
+A few rules:
+
+1. Organize the outline into main points
+2. For each main point, list out 1 actionable tip, 1 mistake, and 1 stat with a source
+3. And for each main point, also list out 2 relevant case studies or well-known stories to reference
+
+
+***1***
+ 
+Meta Description
+================
+
+Please suggest me the most appropriate meta-description for the article of this title: [title]
+
+Please write a meta-description in 150 to 160 characters for the article of this title: [title]
+
+
+***2***
+
+IMAGE
+=====
+
+What kind of Image could be used in the article for this title?: [title]
+
+Can you create alt text options for this image?
+
+***3***
+
+Medium SEO
+==========
+
+[Please provide me 5 best keywords for this article so that its readers know what this story is about from the given title and description]
+
+Title: [title]
+
+Description: [meta description]
+
+***4***
+
+Tweet
+=====
+
+Great, Please write a bulleted list tweet based on this headline: [title]
+
+Here are the rules:
+1. It must be 280 characters or less.
+2. No hashtags
+3. Start with 1 clear, declarative sentence.
+4. 3-5 bulleted list of actionable tips.
+
+***5***
+
+Twitter Thread
+==============
+
+Rewrite this headline as a Twitter Thread: [title]
+A few rules:
+1. Make each tweet stand alone
+2. No hashtags
+3. Use this format:
+First sentence = name the "tip"
+3-5 bulleted list of how to actionably execute that tip
+If there's room, 1 final sentence encouraging the reader.
+
+***6***
+
+Atomic Essays
+=============
+
+Great, now rewrite this headline as an Atomic Essay: [title]
+
+
+Atomic Essays are short essays 250 words or less.
+
+Here are a few guidelines:
+
+1. The first sentence of the essay must be short, to the point, and clearly tell the reader the "strong opinion" of the essay.
+
+2. The essay must be structured in a list of 3-7 Main Ideas.
+
+3. After each main idea must be a short description of that Main Idea. These descriptions should be some combination of the following: Reasons why this main idea is important, Mistakes people make when trying to implement this main idea, Tips to implement this main idea, Examples of this main idea, Stats that prove this main idea, etc. 
+
+4. Do not use flowery language or vague examples. Be as specific as possible.
+
+
+
+***7***
+
+Facebook Post
+=============
+
+Prompt#1
+
+Please convert it into a facebook post: Atomic Essay Title and Body
+
+Prompt#2
+
+please add a question as the hook in the beginning of the previous post
+
+Prompt#3
+
+Please rewrite this in ways to make the writing better, more engaging, active tenses, better adjectives, show don't tell, more compelling language and really try to sell the topic: [previous answer]
+
+Prompt#4:
+
+can you add some emoji's to this copy: "[Selected Line from previous post]"
+
+Prompt#5:
+
+What kind of image could be used to sell this?
+
+
+***8***
+
+CTA:
+===
+
+Please correct my English: For more detailed information on [Incentive] with [Topic], please visit [url].
