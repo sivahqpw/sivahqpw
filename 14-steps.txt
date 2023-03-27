@@ -1,0 +1,157 @@
+TOPIC
+=====
+What is this ClickBank Product?: [Product]
+
+INCENTIVE
+=========
+What are the impacts of [What the Produact is as the TOPIC you learned from the answer of the previous Question] in someone's life?
+
+
+
+************************************************************
+
+I am going to train you to become an Idea Generation Machine.
+
+I will give you the topic and the incentive, and 13 different proven approaches for headline ideas. 
+
+And you will give me back 13 written headline ideas exclusively for that same topic & incentive, but applied 13 different ways.
+
+Are you ready for the topic, the incentive, and the 13 different approaches?
+
+***1***
+
+Topic: [Topic]
+
+Incentive: [Incentive]
+
+30 Proven Approaches:
+
+- The 'Best' Headlines
+- The 'Make My Life Easier' Headlines
+- The 'It's a Race' Headlines
+- The 'If I Were You' Headlines
+- The 'What We Do When...' Headlines
+- The 'Backed By Science' Headlines
+- The 'Why X People Do X' Headlines
+- The 'Experience Has Taught Well' Headlines
+- The 'Let Me List Them Out For You' Headlines
+- The 'Don't Be Stupid' Headlines
+- The 'Don't Be Ignorant' Headlines
+- The 'Everyone Loves Competition' Headlines
+- The 'Click Bait' Headlines
+
+***2***
+
+Can you give me 10 more seo headlines with the same "Topic" and "Incentive"?
+
+
+***3***
+
+Please select the best five headlines out of these 23, considering both SEO and visitors' attention: 
+
+
+***4***
+
+
+Message
+=======
+
+What will be the take home message of the blog post with this title?: [title]
+
+
+***5***
+ 
+Meta Description
+================
+
+Please suggest me the most appropriate meta-description for the article of this title: [title]
+
+Please write a meta-description in 150 to 160 characters for the article of this title: [title]
+
+***6***
+
+IMAGE
+=====
+
+What kind of Image could be used in the article for this title?: [title]
+
+Can you create alt text options for this image?
+
+***7***
+
+Medium SEO
+==========
+
+[Please provide me 5 best keywords for this article so that its readers know what this story is about from the given title and description]
+
+Title: [title]
+
+Description: [meta description]
+
+***8***
+
+Tweet
+=====
+
+Great, Please write a bulleted list tweet based on this headline: [title]
+
+Here are the rules:
+1. It must be 280 characters or less.
+2. No hashtags
+3. Start with 1 clear, declarative sentence.
+4. 3-5 bulleted list of actionable tips.
+
+***9***
+
+Twitter Thread
+==============
+
+Rewrite this headline as a Twitter Thread: [title]
+A few rules:
+1. Make each tweet stand alone
+2. No hashtags
+3. Use this format:
+First sentence = name the "tip"
+3-5 bulleted list of how to actionably execute that tip
+If there's room, 1 final sentence encouraging the reader.
+
+***10***
+
+Atomic Essays
+=============
+
+Great, now rewrite this headline as an Atomic Essay: [title]
+
+
+Atomic Essays are short essays 250 words or less.
+
+Here are a few guidelines:
+
+1. The first sentence of the essay must be short, to the point, and clearly tell the reader the "strong opinion" of the essay.
+
+2. The essay must be structured in a list of 3-7 Main Ideas.
+
+3. After each main idea must be a short description of that Main Idea. These descriptions should be some combination of the following: Reasons why this main idea is important, Mistakes people make when trying to implement this main idea, Tips to implement this main idea, Examples of this main idea, Stats that prove this main idea, etc. 
+
+4. Do not use flowery language or vague examples. Be as specific as possible.
+
+***11***
+
+Outline for a long-form blog post
+=================================
+
+Great, now create an outline for a long-form blog post with this headline: [title]
+
+
+A few rules:
+
+1. Organize the outline into main points
+2. For each main point, list out 1 actionable tip, 1 mistake, and 1 stat with a source
+3. And for each main point, also list out 2 relevant case studies or well-known stories to reference
+
+***12***
+
+CTA:
+===
+
+Please correct my English: For more detailed information on [Incentive] with [Topic], please visit [url].
