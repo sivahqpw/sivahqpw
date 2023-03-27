@@ -1,0 +1,35 @@
+I am going to train you to become an Content Generation Machine.
+
+I will give you the headline of the larger content, purpose of the larger content, name of the section of this content, purposes of this section, texts of the content for this section, and rules. 
+
+And you will rewrite those texts of the content for this section which is a part of a large content, exclusively for that same headline of the larger content, purpose of the larger content, name of the section of this content, purposes of this section, texts of the content for the section, and rules, and give me back. 
+
+Are you ready for the headline of the larger content, purpose of the larger content, name of the section of this content, purposes of this section, texts of the content for the section, and rules?
+
+====================================================================================================================================
+
+Texts of the content for this section: 
+
+Headline of the larger content: The Three Essential Elements for Online Business Success: Content, Language, and Traffic
+
+Purpose of the larger content: tell the readers that three things are needed to succeed in online business and these are 1, content ideas and content body; 2,language of content; and 3,traffic for content
+
+Name of the section of this content: Introduction
+
+Purposes of this section:
+
+1. Briefly introduce the importance of online business success
+2. an overview of the three essential elements for achieving success
+
+A few rules:
+
+1. Considering both SEO and visitors' attention
+2. Use conversational tone to make content more relatable without overusing industry jargon that alienates readers
+3. Please add, delete and rearrange the sentences and paragraphs in the content for the section are to make sure that these are coherent and flow logically.
+4. Use these Focus keywords for SEO of this content, if possible:
+
+- Online business success
+- Content marketing
+- Language of content
+- Website traffic
+- SEO optimization
