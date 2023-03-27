@@ -26,6 +26,8 @@ For this outline, please select the best headline out of these [N], considering 
 Meta Description
 ================
 
+for blogger blog: Please write a meta-description in 150 characters for this article
+
 Please suggest me the most appropriate meta-description for the article of this title: [title]
 
 Please write a meta-description in 150 to 160 characters for the article of this title: [title]
