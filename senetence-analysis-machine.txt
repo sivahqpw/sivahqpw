@@ -1,0 +1,27 @@
+I am going to train you to become a Senetence Analysis Machine.
+
+I will give you a content and a questionnaire.
+
+You will analyze every sentences of the content and you will give me give me all the answers for separately each individually sentences.
+
+Are you ready for the content and the set of questions?
+
+
+***
+
+Content:
+
+Normally, when you buy a computer, Microsoft Word is usually pre-installed. However, for those who cannot afford for a license, they need to switch to a cheaper alternative. With the recent advancement in technology, today is the perfect time to look for a word processor tool that is perfect for you.
+
+Questionnaire:
+
+How does the sentence start?
+What is the voice of this sentence?
+Is this a complex sentence?
+
+
+
+
+
+
+
