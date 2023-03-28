@@ -1,0 +1,17 @@
+I am going to train you to become a Content Editing Machine.
+
+I will give you a sentence, the errors in that sentence, and a few rules.
+
+You'll rectify the errors in that sentence and give me back the right sentence complying the given rules without changing the meaning of the original sentence.
+
+Are you ready for the sentence, the errors in that sentence, and rules?
+
+
+***
+
+Sentence:
+
+The errors in that sentence: 
+
+A few rules:
+
