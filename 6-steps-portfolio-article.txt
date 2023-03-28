@@ -1,0 +1,87 @@
+Step#1 Ask for title
+
+Taking into account both SEO and visitors' attention, which 5 articles should I write now for the [NICHE] given that I have already written these articles?: "[Title]"
+
+Step#2 Ask for content of title
+
+What should be the writing style and content of this article?: "[Title]"
+
+Step#3 SEO Keywords
+
+Please provide me 5 best keywords for this article so that its readers know what this story is about
+
+
+Step#4 Ask for Outline (in Ask-&-Provide-Shape with rules)
+
+***
+
+I am going to train you to become a Content Generation Machine.
+
+I will give you title of the article, content of the article, and a few rules to generate the content.
+
+And you will generate the outline of the content for me exclusively for the title of the article, content of the article, and rules.
+
+Are you ready for title of the article, content of the article, and rules?
+
+
+==================================================
+
+Title of the article: 
+
+Content of the article: 
+
+A few rules: 
+1. The style of writing for these articles should be informative, yet engaging and easy to read. 
+2. Present the information in a way that is accessible to readers of all levels of understanding. 
+3. Use examples and stories to help illustrate your points and make them more relatable.
+
+***
+
+Step#5 Edit Outline And Ask to Generate Content  (in Ask-&-Provide-Shape with rules)
+
+***
+
+I am going to train you to become a Content Generation Machine.
+
+I will give you title of the article, content of the article, outline of the article, and a few rules to generate the content.
+
+And you will generate the content for me exclusively with these exact title of the article, content of the article, outline of the article, and rules.
+
+Are you ready for title of the article, content of the article, outline of the article, and rules?
+
+
+==================================================
+Title of the article: 
+
+Content of the article: 
+
+Outline of the article:
+
+(Add these two:
+1, a quick note
+2, More how-to tutorials)
+
+A few rules: 
+1. The style of writing for these articles should be informative, yet engaging and easy to read. 
+2. Present the information in a way that is accessible to readers of all levels of understanding. 
+3. Use examples and stories to help illustrate your points and make them more relatable.
+4. Include list out 1 actionable tip and 1 mistake under the subtitle: A Quick Note
+5. Include few web pages and youtube videos with their titles and  urls that can guide the readers as how-to tutorials in the process of completing this step mistake under the subtitle: more how-to tutorials
+6. In structuring and writing the article, consider both SEO and visitors' attention 
+7. Don't overuse industry jargon that alienates readers
+8. Ensure that all the sentences and paragraphs in the content are coherent and flow logically.
+9. Use these Focus keywords for SEO of this content, if possible:
+- Online business success
+- Content marketing
+- Language of content
+- Website traffic
+- SEO optimization
+
+
+***
+
+Step#6 Ask for Content
+
+
+Please expand: 
+
