@@ -1,0 +1,3 @@
+Taking into account both SEO and visitors' attention, which 5 articles should I write now for the [NICHE] given that I have already written these articles?: "[Title]"
+
+What should be the writing style and content of this article?: "[Title]"
