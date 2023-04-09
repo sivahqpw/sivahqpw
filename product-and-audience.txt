@@ -1,0 +1,64 @@
+[Analyze the URL provided and answer the questionnaire]
+
+URL: https://iminsider.lpages.co/secret-email-system-2/
+
+Questionnaire:
+
+- Who are the targeted audience of this product?
+- What are the related topics and niches of the online discussions those audience?
+- give me a list of the most appropriate keywords and phrases to find those online discussions.
+- Give me the top 20 FAQs of the targeted audience of this product. 
+
+
+
+*** 2 ***
+
+
+[Consider the URL provided, audience, and The related topics and niches this audience; then answer the questionnaire]
+
+URL: https://iminsider.lpages.co/secret-email-system-2/
+
+Audience: individuals who want to learn how to make money online through email marketing
+
+The related topics and niches this audience: email marketing, internet marketing, affiliate marketing, online business, passive income, digital products, and online courses.
+
+Questionnaire:
+
+- give me a list of 10 most appropriate blog post title in which I can promote the product of the given url.
+- Give me the top 20 FAQs on the related topics and niches this audience.
+
+
+
+*** 3 ***
+
+[Consider the URL provided, audience and the objective, then answer the questionnaire]
+
+URL: https://iminsider.lpages.co/secret-email-system-2/
+
+Audience: individuals who want to learn how to make money online through email marketing
+
+Objective: to promote the product of the given url
+
+Questionnaire:
+
+- What are the related topics and niches of Twitter ideal for it?
+- give me a list of 10 most appropriate keywords and phrases to tweet on.
+- give me a list of 10 most appropriate hashtags to tweet on.
+
+
+*** 4 ***
+
+Please write a tweet based on this headline: Discover the power of email marketing for online businesses
+
+Here are the rules:
+
+1. It must be 280 characters or less.
+
+2. use hashtags
+
+3. Start with 1 clear, declarative sentence.
+
+4. Add an actionable tips.
+
+5. Add [url]
+
